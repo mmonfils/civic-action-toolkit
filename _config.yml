@@ -2,9 +2,10 @@ title: Iowa Civic Action Toolkit
 description: An open-source template for replicable citizen advocacy, macro-sociology analytics, and public interest pitches.
 theme: jekyll-theme-cayman
 
-# Social Media Previews (Read automatically by jekyll-seo-tag plugin)
-og_image: /assets/thumbnail.jpg
+# GitHub Pages Routing
+url: "https://mmonfils.github.io"
+baseurl: "/civic-action-toolkit"
 
-# Active compilation plugins
-plugins:
-  - jekyll-seo-tag
+# Social Preview & Interface Assets
+og_image: "https://mmonfils.github.io/civic-action-toolkit/assets/thumbnail.jpg"
+favicon: "https://mmonfils.github.io/civic-action-toolkit/assets/favicon.png"
