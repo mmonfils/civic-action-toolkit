@@ -3,7 +3,7 @@ description: An open-source template for replicable citizen advocacy, macro-soci
 theme: jekyll-theme-cayman
 
 # Social Media Previews (Read automatically by jekyll-seo-tag plugin)
-image: /assets/thumbnail.jpg
+og_image: /assets/thumbnail.jpg
 
 # Active compilation plugins
 plugins:
